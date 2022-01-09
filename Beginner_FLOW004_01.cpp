@@ -2,6 +2,7 @@
 // CodeChef Begineers level.
 // Link: https://www.codechef.com/submit/FLOW004
 // Sume of any number first and last digits.
+// Very good one
 
 #include <iostream>
 using namespace std;

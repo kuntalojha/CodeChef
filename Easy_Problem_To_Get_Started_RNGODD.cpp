@@ -4,6 +4,7 @@
 // Topic: Easy Problem to Get Started
 // Link: https://www.codechef.com/CCSTART2/problems/RNGEODD
 
+
 #include <iostream>
 using namespace std;
 
