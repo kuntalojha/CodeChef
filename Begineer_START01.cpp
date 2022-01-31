@@ -1,6 +1,6 @@
 // Made by KUNTAL OJHA 09/01/2022
 // CodeChef Begineers level.
-// Link: https://www.codeche
+// Link: https://www.codechef.com/submit/START01
 // Very easy program.
 
 #include <iostream>

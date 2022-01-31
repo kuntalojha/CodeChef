@@ -22,7 +22,6 @@ int main() {
 	        if(i<11)
 	        {
 	            E=E*2;
-	            
 	        }else
 	        {
 	            E1=E*3;
