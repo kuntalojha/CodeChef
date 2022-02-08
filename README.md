@@ -19,7 +19,7 @@ Add image
 
 - 🏡 I am from Dum Dum, Kolkata, West Bengal, India.
 - 💻 Now I am pursuing my B.Tech in Computer Science And Engineering
-     at 🎓Bankura Unnayani Institute of Engineering. 📚Now I am in my 3rd year.
+     at 🎓Bankura Unnayani Institute of Engineering. 📚Now I am in my 4th year.
 - 👀 I’m interested in Competitive Programming.I am always trying to learn new skills.
 - 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on any softwer/open sourse  company/organazition .
@@ -38,7 +38,9 @@ Add image
 
 <p align="left">
 
-<a href = "https://www.codechef.com/users/kuntalojha/"><img src="https://img.icons8.com/color/48/000000/codechef.png"/> 
+<a href = "https://www.codechef.com/users/kuntalojha/"><img src="https://img.icons8.com/color/48/000000/codechef.png"/>
+<a href = "https://leetcode.com/kuntalojha/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/>
+<a href = "https://www.hackerrank.com/kuntalojha"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"/> 
 <a href = "https://www.linkedin.com/in/kuntalojha/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/kuntalojha"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.youtube.com/c/kuntalojha"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
